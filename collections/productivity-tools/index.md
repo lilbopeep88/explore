@@ -11,6 +11,11 @@ items:
  - mhagger/git-imerge
  - eddiezane/lunchy
  - awaescher/repoz
+ - sharkdp/fd
+ - BurntSushi/ripgrep
+ - stedolan/jq
+ - alacritty/alacritty
+ - ajeetdsouza/zoxide
 display_name: Software productivity tools
 created_by: holman
 ---

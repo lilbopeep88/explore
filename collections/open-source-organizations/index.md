@@ -6,8 +6,7 @@ items:
  - Netflix/netflix.github.com
  - Esri/esri.github.io
  - square/square.github.io
- - twitter/twitter.github.io
- - gilt/code.gilt.com
+ - twitter/opensource-website
  - guardian/guardian.github.com
  - Yelp/yelp.github.io
  - Shopify/shopify.github.com
@@ -29,6 +28,7 @@ items:
  - docker/docker.github.io
  - ExpediaGroup/expediagroup.github.io
  - wikimedia/wikimedia.github.io
+ - fairfield-programming/fairfield-programming.github.io
 display_name: Open source organizations
 created_by: benbalter
 image: open-source-organizations.png

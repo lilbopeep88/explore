@@ -10,7 +10,7 @@ items:
  - uglide/RedisDesktopManager
  - trekhleb/homemade-machine-learning
  - vadimdemedes/ink
- - denysdovhan/spaceship-prompt
+ - spaceship-prompt/spaceship-prompt
  - aio-libs/aiohttp
  - pnpm/pnpm
  - paulmillr/chokidar
@@ -52,6 +52,7 @@ items:
  - komarserjio/notejam
  - ttag-org/ttag
  - vmagamedov/grpclib
+ - angrymouse/remote-functions
 
 display_name: Made in Ukraine
 image: made-in-ukraine.png

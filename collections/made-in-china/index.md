@@ -26,7 +26,7 @@ items:
  - ElemeFE/mint-ui
  - ElemeFE/node-interview
  - ElemeFE/v-charts
- - ctripcorp/apollo
+ - apolloconfig/apollo
  - netease/pomelo
  - meituan-dianping/mpvue
  - meituan-dianping/walle
@@ -45,4 +45,3 @@ created_by: renfei
 image: made-in-china.png
 ---
 Open source projects built in or receiving significant contributions from China :cn:
-
